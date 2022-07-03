@@ -1,6 +1,5 @@
 Mini Shell With Signals
 Authored by : Mohammad Khayyo
-211558895
 
 ==Description==
 This exercise is a simple shell, receives a command from the user, and  parsing a string to do the order, this shell doing piping and signals, the types of signals that this exercise contain is the stop signal(SIGTSTP “^z”)and the continue signal (SIGCONT “fg”), the process will pause when entering (^z) and continue the work when entering(fg).
